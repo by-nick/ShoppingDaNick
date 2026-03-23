@@ -28,6 +28,7 @@ nav{
     border-bottom: 10px;
     border-top: 10px;
     padding: 12px;
+    cursor: pointer;
     
 }
 a{
@@ -45,6 +46,7 @@ a:active{
 h1{
     padding: 16px;
     margin: 10px;
+    text-decoration: none;
 }
 main > div{
     margin-top: 107px;
@@ -63,6 +65,23 @@ footer{
     padding: 10px;
     background-color: #FF5454;
     text-align: center;
+}
+.BComprar{
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 100%;
+}
+.nome{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
 }
 
 
