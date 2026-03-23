@@ -64,6 +64,11 @@ footer{
     background-color: #FF5454;
     text-align: center;
 }
+a.BVoltar{
+    position: fixed;
+    top: 20px; left: 20px
+
+}
 
 
 
