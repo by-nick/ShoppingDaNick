@@ -105,6 +105,13 @@ img{
      object-fit: cover;
      background: #e0e0e0
 }
+.logotipo{
+    position: fixed;
+    top: 20px; left: 20px;
+    height: 30px;
+    width: 30px;
+
+}
 
 
 
