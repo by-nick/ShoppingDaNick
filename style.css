@@ -105,12 +105,14 @@ img{
      object-fit: cover;
      background: #e0e0e0
 }
-.logotipo{
-    position: fixed;
-    top: 20px; left: 20px;
-    height: 30px;
-    width: 30px;
-
+button{
+    background-color: #FFC4C4;
+    color: rgb(138, 0, 0);
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: bold;
+    cursor: pointer;
 }
 
 
