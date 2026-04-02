@@ -15,5 +15,4 @@ Um site de vendas, com links externos, feito em **HTML5 e CSS3** para portifóli
 * **Roupa de Banho**
   Biquínis
 
-
-  
+  **Site feito somente com os conhecimentos dos módulos 1 e 2 do Curso em Vídeo @gustavoguanabara** 
